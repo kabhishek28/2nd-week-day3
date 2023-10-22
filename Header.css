@@ -1,0 +1,25 @@
+#box{
+    border: 5px solid green;
+    width: 250 px;
+    
+    margin-left: auto;
+    margin-right: auto;
+    padding: 2px;
+    text-align: center;
+    color: black;
+    background-color: antiquewhite;
+}
+#image{
+    width: 225px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+#b{
+    
+    margin-left: auto;
+    margin-right: auto;
+    display: block; 
+    text-align: center; 
+    color: red;
+}
